@@ -12,5 +12,6 @@ public class App
         String[] names={"apple","ball","cat"};
         for(int i=0;i<names.length;i++)
         System.out.println(names[i]);
+        System.out.println("new branch added");
     }
 }
